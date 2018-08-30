@@ -1,2 +1,8 @@
 /URLTester/obj/*
 /URLTester/bin/*
+URLTester/301test.csv
+.vs/URLTester/v15/.suo
+.vs/URLTester/v15/Server/sqlite3/db.lock
+.vs/URLTester/v15/Server/sqlite3/storage.ide
+.vs/URLTester/v15/Server/sqlite3/storage.ide-shm
+.vs/URLTester/v15/Server/sqlite3/storage.ide-wal

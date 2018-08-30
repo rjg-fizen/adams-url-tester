@@ -52,12 +52,16 @@ namespace _URLTester
             {
                 //if errors then display them
                 testManager.OutPutErrorMessages();
+                Console.ReadLine();
+                return;
             }
 
             if (!testManager.TestLinks())
             {
                 //if errors then display them
                 testManager.OutPutErrorMessages();
+                Console.ReadLine();
+                return;
             }
             
             Console.WriteLine("Running.....");
