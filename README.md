@@ -11,11 +11,11 @@ URL,expectedRedirect
 ### Options:  
 *         -f              CSV File Path that contains the url list to be tested.  
 *         -d              Hostname Domain eg. https://www.example.com  
-*         -o              Optional output text file eg. https://www.example.com  
-*         -t              Runs test as a mutlithread operation. https://www.example.com  
+*         -o              Optional output text file eg. c:/output.txt  
+*         -t              Runs test as a mutlithread operation.
 *         -h Help         Help Manual
   
 Sample Arguements  
-*         -d https://www.example.com -f C:\301test.csv -o C:\output.txt  
+*         -d https://www.example.com -f C:\301test.csv -o c:\output.txt  
 
 
