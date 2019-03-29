@@ -1,5 +1,5 @@
 # URLTester
-A simple 301 redirects tester for a list of urls using a csv file.  
+A simple 301 redirects tester for a list of urls using an input (csv or json) file.  
 
 ### Sample Test File (csv)  
 URL,expectedRedirect  
